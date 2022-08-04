@@ -4,29 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8ce0ea1-428c-4c65-8e62-aabc8282dd50" name="Changes" comment="Java parser using ANTLR4">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/antlr4/Java8.g4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/antlr4/Java8.interp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/antlr4/Java8.tokens" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/antlr4/Java8BaseListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/antlr4/Java8Lexer.interp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/antlr4/Java8Lexer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/antlr4/Java8Lexer.tokens" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/antlr4/Java8Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/antlr4/Java8Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/langparser/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/langparser/UppercaseMethodListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/az/tests/AssTest.java" afterDir="false" />
+    <list default="true" id="d8ce0ea1-428c-4c65-8e62-aabc8282dd50" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/langparser/UppercaseMethodListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/langparser/UppercaseMethodListener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659555924156</updated>
       <workItem from="1659555926328" duration="8310000" />
-      <workItem from="1659606009804" duration="1720000" />
+      <workItem from="1659606009804" duration="2815000" />
     </task>
     <task id="LOCAL-00001" summary="Java parser using ANTLR4">
       <created>1659606543966</created>
@@ -115,11 +95,29 @@
       <option name="project" value="LOCAL" />
       <updated>1659606543966</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java parser using ANTLR4">
+      <created>1659607994273</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659607994273</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java parser using ANTLR4" />
