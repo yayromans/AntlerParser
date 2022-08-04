@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8ce0ea1-428c-4c65-8e62-aabc8282dd50" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/langparser/UppercaseMethodListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/langparser/UppercaseMethodListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/antlr4/Java8Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/antlr4/Java8Parser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,11 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -85,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659555924156</updated>
       <workItem from="1659555926328" duration="8310000" />
-      <workItem from="1659606009804" duration="3165000" />
+      <workItem from="1659606009804" duration="3508000" />
     </task>
     <task id="LOCAL-00001" summary="Java parser using ANTLR4">
       <created>1659606543966</created>
@@ -108,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659609344627</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Space game">
+      <created>1659609700066</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659609700066</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java parser using ANTLR4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java parser using ANTLR4" />
+    <MESSAGE value="Space game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Space game" />
   </component>
 </project>

@@ -1,5 +1,6 @@
 package antlr4;
 // Generated from Java8.g4 by ANTLR 4.7.1
+// Notice that the following code is generated
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;
