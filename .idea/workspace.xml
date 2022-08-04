@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8ce0ea1-428c-4c65-8e62-aabc8282dd50" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/langparser/UppercaseMethodListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/langparser/UppercaseMethodListener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659555924156</updated>
       <workItem from="1659555926328" duration="8310000" />
-      <workItem from="1659606009804" duration="2815000" />
+      <workItem from="1659606009804" duration="3165000" />
     </task>
     <task id="LOCAL-00001" summary="Java parser using ANTLR4">
       <created>1659606543966</created>
@@ -102,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659607994273</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java parser using ANTLR4">
+      <created>1659609344627</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659609344627</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
